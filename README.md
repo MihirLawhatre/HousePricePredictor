@@ -16,7 +16,9 @@ The company uses data analytics to purchase houses at a price below their actual
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-R- squared for the model is approx. 70 %
+R- squared for :
+ Lasso : 60%
+ Ridge : 73%
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
